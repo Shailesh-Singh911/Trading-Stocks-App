@@ -11,7 +11,11 @@ system.
 
 
 1. ER Diagram
+
+
 ![image](https://user-images.githubusercontent.com/83928126/183125482-95681cc2-66f1-4cd1-9557-78713920a477.png)
+
+
 
 2. Schema Design
 According to the project requirement we came out with a simple schema consisting of 6 tables
