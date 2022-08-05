@@ -48,6 +48,7 @@ And by solving the functional dependency relation we can find that the table is 
 
 
 Stock Table
+
 Primary key is StockId (which we are extracting from the google login object)
 Using Stock we can determine the stock price,company name etc
 And by solving the functional dependency relation we can find that the table is in 3NF.
